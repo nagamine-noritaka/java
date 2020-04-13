@@ -64,5 +64,3 @@ Please use this source code, and change one!
 I want your report if there is a bug.
 I want you to modify it if there is an idea of the function addition.
 
-source code see
-http://code.google.com/p/tablelayout/source/browse/#svn/trunk'>http://code.google.com/p/tablelayout/source/browse/#svn/trunk
